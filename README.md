@@ -18,3 +18,5 @@ Tareas:
   + [Tipos_de_variables_en_java](Tipos_de_variables_en_java.pdf)
 
   + [Deber_Clases_en_Java](Deber_Clases_en_Java.pdf)
+
+  + [EXPOSICION](EXPOSICION.pdf)
